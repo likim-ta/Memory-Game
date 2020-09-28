@@ -25,3 +25,5 @@ I wrote card matching logic code in _app.js_ file, added new elements in _index.
 * created counter to count number of moves the player has made
 * created star rating that reflects player's performance
 * added congratulations popup when player wins the game
+
+To view the site on github pages go to https://likim-ta.github.io/Memory-Game/
